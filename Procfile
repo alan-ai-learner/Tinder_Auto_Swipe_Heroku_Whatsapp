@@ -1,0 +1,1 @@
+clock: python tinder_auto_swipe_bot.py
